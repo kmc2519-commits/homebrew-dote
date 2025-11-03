@@ -2,7 +2,7 @@ class Dote < Formula
   desc "dot e command"
   homepage "https://github.com/kmc2400/homebrew-dote"
   url "https://raw.githubusercontent.com/kmc2519-commits/homebrew-dote/main/dote.c"
-  sha256 "40b929c996b07eb45582f343b0a7a061947e684ff5defddda5dffbe7dc3a3f3b"
+  sha256 "b8dade2082de91e5367c2ea3487e65851be2a8c02e5419f943c6bc3ad71ba873"
   version "1.0.0"
 
 
